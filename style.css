@@ -19,6 +19,7 @@
 
   body{
     display: flex;
+    flex-direction: column;
     justify-content: center;
     align-items: center;
     margin: 0 auto;
@@ -69,6 +70,10 @@
   .qr-code .info p{
     font-size: 15px;
     color: hsl(220, 15%, 55%);
+  }
+
+  .attribution{
+    margin-top: 20px;
   }
 
   @media(max-width:375px){
