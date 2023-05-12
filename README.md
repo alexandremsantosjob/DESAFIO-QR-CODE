@@ -20,7 +20,7 @@ Mobile (375px)
 
 ### Links
 
-- Solution URL: <a href="https://your-solution-url.com](https://www.frontendmentor.io/solutions/qrcode-flex-i7vcWmLNrK">
+- Solution URL: <a href="https://www.frontendmentor.io/solutions/qrcode-flex-i7vcWmLNrK"> Frontendmentor</a>
 - Live Site URL: <a href="https://alexandremsantosjob.github.io/DESAFIO-QR-CODE/"> GitHub</a>
 
 
