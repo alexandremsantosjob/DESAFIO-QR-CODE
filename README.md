@@ -21,7 +21,7 @@ Mobile (375px)
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Github](https://your-live-site-url.com](https://alexandremsantosjob.github.io/DESAFIO-QR-CODE/)
+- Live Site URL: <a href="https://alexandremsantosjob.github.io/DESAFIO-QR-CODE/"> GitHub</a>
 
 
 ### Built with
